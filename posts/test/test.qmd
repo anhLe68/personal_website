@@ -1,0 +1,7 @@
+---
+title: "Test post"
+author: "PA"
+date: today
+categories: [article]
+image: "image.jpg"
+---
