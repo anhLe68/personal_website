@@ -1,6 +1,7 @@
 ---
 title: "The breakdown of communication products"
 author: "PA"
+date: today
 format: html
 ---
 
